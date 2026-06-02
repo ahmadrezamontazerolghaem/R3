@@ -6,6 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
+
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: openflow-dev@lists.stanford.edu\n"
 "POT-Creation-Date: 2008-10-31 10:13-0700\n"

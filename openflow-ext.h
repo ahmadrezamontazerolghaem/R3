@@ -2,7 +2,6 @@
  * Copyright (c) 2009 The Board of Trustees of The Leland
  * Stanford Junior University
  */
-
 #ifndef OPENFLOW_OPENFLOW_EXT_H
 #define OPENFLOW_OPENFLOW_EXT_H 1
 

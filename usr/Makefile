@@ -7,6 +7,7 @@ suffix_$(CONFIG_RD_LZMA)   = .lzma
 # XZ
 suffix_$(CONFIG_RD_XZ)     = .xz
 
+
 # Lzo
 suffix_$(CONFIG_RD_LZO)    = .lzo
 

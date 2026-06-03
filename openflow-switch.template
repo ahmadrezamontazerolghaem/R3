@@ -6,7 +6,6 @@
 #       /etc/init.d/openflow-switch start
 # Alternatively, use the ofp-switch-setup program (from the
 # openflow-switch-config package) to do everything automatically.
-
 # NETDEVS: Which network devices should the OpenFlow switch include?
 #
 # List the network devices that should become part of the OpenFlow

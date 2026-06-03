@@ -8,4 +8,4 @@
         postrotate
                 vlogconf --target /var/run/secchan.pid --reopen
         endscript
-}
+} 

@@ -2,7 +2,6 @@
 #! /bin/sh
 
 # /etc/init.d/openflow-switch
-#
 # Written by Miquel van Smoorenburg <miquels@cistron.nl>.
 # Modified for Debian by Ian Murdock <imurdock@gnu.ai.mit.edu>.
 # Further changes by Javier Fernandez-Sanguino <jfs@debian.org>
